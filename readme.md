@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm Ahnaf Tahmid 👋</h1>
-<h2 align="center">A Software Enthius from BD</h2>
+<h2 align="center">A Software Enthusiast from BD</h2>
+
 <p align="center">
   <a href="https://github.com/ahnaf4d">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Follow">
+    <img src="https://img.shields.io/github/followers/ahnaf4d?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=ahnaf4d&color=blue" alt="Profile views">
 </p>
 
 <p align="center">
@@ -56,15 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf4d&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
----
-
-### Let's Connect
-
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📫 [Email](mailto:your.email@example.com)
-- 💬 [Twitter](https://twitter.com/yourusername)
-- 👔 [LinkedIn](https://www.linkedin.com/in/yourusername)
 
 ---
 
