@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahnaf Tahmid 👋</h1>
 <h2 align="center">A Software Enthius from BD</h2>
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/ahnaf4d">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="https://twitter.com/yourusername">
@@ -46,15 +46,15 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnaf4d&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnaf4d&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ahnaf4d=yourusername&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
