@@ -1,6 +1,6 @@
 # 🌟 **Ahnaf Tahmid**  
 
-![GitHub Banner](./image/github-account-banner.png)  
+![GitHub Banner](./images/github-account-banner.png)  
 
 ## 👨‍💻 **About Me**  
 Hi, I'm **Ahnaf Tahmid**, a dedicated **frontend developer** with a passion for building responsive and visually appealing user interfaces. I strive to enhance user experiences through clean code and intuitive design.  
